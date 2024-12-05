@@ -5,4 +5,4 @@
 ## metadata: Phenotypic data and presumed HOR/NOR classification based on adipose fin clips.
 ## GT-seq_genotyping_output: initial outputs from GT-seq genotyping. marker info file and original genotypes.
 ## filtering_record_filtered_genotypes: QC filtering record doc, R script used for QC filtering, filtered genotypes as dataframe.
-## analyses_results: Analyses R script and figures.
+## analyses_results: Analyses R script.
